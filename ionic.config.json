@@ -1,5 +1,7 @@
 {
   "name": "resaltado-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
